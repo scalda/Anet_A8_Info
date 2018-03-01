@@ -82,7 +82,7 @@
                     "description": "The default acceleration of print head movement.",
                     "unit": "mm/s²",
                     "type": "float",
-                    "default_value": 1000,
+                    "default_value": 400,
                     "settable_per_mesh": false,
                     "settable_per_extruder": false,
                     "settable_per_meshgroup": false
@@ -93,7 +93,7 @@
                     "description": "Default jerk for movement in the horizontal plane.",
                     "unit": "mm/s",
                     "type": "float",
-                    "default_value": 10.0,
+                    "default_value": 20.0,
                     "minimum_value": "0",
                     "settable_per_mesh": false,
                     "settable_per_extruder": false,
